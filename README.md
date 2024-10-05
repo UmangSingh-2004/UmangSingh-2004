@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @UmangSingh-2004
+- 👋 Hi, I’m Umang Singh
 - 👀 I’m interested in New new technology like Software, AI etc  
 - 🌱 I’m currently learning Advanced java
 - 📫 How to reach me to email aur linkedln
