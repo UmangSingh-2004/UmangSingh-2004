@@ -5,5 +5,4 @@
 - ⚡ Fun fact: I love to play sports in free time. 
 <!---
 UmangSingh-2004/UmangSingh-2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
